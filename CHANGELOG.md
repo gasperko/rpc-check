@@ -1,6 +1,18 @@
+2017-01-10
+==========
+
+  * 3.2.4
+  * Feature: Updated to last web3.js version
+
+2017-01-09
+==========
+
+  * ;
+
 2016-10-09
 ==========
 
+  * changelog
   * 3.2.3
   * (churn): fix docs
 
@@ -125,6 +137,3 @@
   * Exit on error
   * 1.6.1
   * Added more meta data
-  * 1.6.0
-  * 1.5.0
-  * i(feature): json
