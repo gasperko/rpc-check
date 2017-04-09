@@ -1,6 +1,14 @@
+2017-04-09
+==========
+
+  * 3.2.5
+  * Autodeploy
+  * Badges
+
 2017-01-10
 ==========
 
+  * changelog
   * 3.2.4
   * Feature: Updated to last web3.js version
 
@@ -133,7 +141,3 @@
   * 2.0.0
   * 1.8.0
   * Docs
-  * 1.7.0
-  * Exit on error
-  * 1.6.1
-  * Added more meta data
