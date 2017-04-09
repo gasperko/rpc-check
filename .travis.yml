@@ -1,3 +1,11 @@
 language: node_js
 node_js:
-  - "6"
+- '6'
+deploy:
+  provider: npm
+  email: sebs@2xs.org
+  api_key:
+    secure: FOjWBxlyVZ8nm6dZVKyWUVlLQLG2oYTicbKygrhmI79qD5ORS4OcMPk8+w1bUWgfpAeJmE0OuUAAcJGZZ37Yus2Th1ODPtm4vW2wxW1UikkbKga4AiionS9sc8OtDONQdCmaHHRwROIvsCOnwsHlcGs2R241tQyXsjvJQ0lga69pfl+JLhFbA8ARoepJ2TuczPuxAVun9E+545S+9BM9vfBzm2i/LqUy5GjI0FPSnyTNerS4i+UDV/uEy2eM0Taa0pMP7WZLvNc9gk9VNZ6VrjJ5Ve/wpdWvdtly7CITdZtTxplnRn/24VGdhhZnpepVF5XT6JVQmwe+1UYIfQg2PW++1x/Ahht7CMKHx+NFzu+5CjZw6KQDcfNloghNYWU+0z5yRs4YO2sMMmtxR1qWZ5g51Q4ZLmgYopkng7OmISiqFFRkKAP8iUQBFoEYkOQXcGzQWzew9iVSYP9u+Z4QWtSh+v0LsQWHf9sfgdCzczIOzh40RhvEkGgjy4/KOavrggh9h/m8XG+3Nh9YywWO514dp0XLvD0eEfYgdD8Ecr4SBioZVsDeIO7S2KRM+pFEklOtuPq/7ZQDF0s5LF58O45eHuDHx5DPFs14W6yw0RSQOOS0jyIgtpodfFidlhhNur7ry0YGwCeIus5kk7RFY8Fi4sxbUANNoiUwtlxDW9w=
+  on:
+    tags: true
+    repo: sebs/rpc-check
