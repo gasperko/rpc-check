@@ -1,6 +1,10 @@
 # rpc-check
 
-[![npm version](https://badge.fury.io/js/rpc-check.svg)](https://badge.fury.io/js/rpc-check) [![Build Status](https://travis-ci.org/sebs/rpc-check.svg?branch=master)](https://travis-ci.org/sebs/rpc-check)[![npm](https://img.shields.io/npm/dt/rpc-check.svg?maxAge=2592000)]()
+[![npm](https://img.shields.io/npm/dt/rpc-check.svg)](https://www.npmjs.com/package/rpc-check)
+[![license](https://img.shields.io/github/license/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check/blob/master/LICENSE.md)
+[![GitHub tag](https://img.shields.io/github/tag/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check)
+[![Travis](https://img.shields.io/travis/sebs/rpc-check.svg)](https://travis-ci.org/sebs/rpc-check)
+[![GitHub issues](https://img.shields.io/github/issues/sebs/rpc-check.svg)](https://github.com/sebs/rpc-check/issues)
 
 Checks for JSON RPC endpoints of ethereum nodes and displays basic statistics and gives a gist how accessible it is.
 
