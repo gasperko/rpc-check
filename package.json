@@ -33,19 +33,19 @@
   "author": "Sebastian Schürmann",
   "license": "MIT",
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.0.2",
     "marked": "^0.3.6",
-    "marked-man": "^0.1.5",
-    "mocha": "^3.1.0",
-    "child-process-promise": "^2.1.3",
-    "changelog": "^1.0.7"
+    "marked-man": "^0.2.1",
+    "mocha": "^3.4.2",
+    "child-process-promise": "^2.2.1",
+    "changelog": "^1.3.0"
   },
   "dependencies": {
-    "bignumber.js": "^2.4.0",
-    "commander": "^2.9.0",
+    "bignumber.js": "^4.0.2",
+    "commander": "^2.11.0",
     "prettyjson": "^1.1.3",
-    "sync-request": "^3.0.1",
-    "upchain-web3-http-provider": "^3.1.0",
-    "web3": "^0.18.0"
+    "sync-request": "^4.1.0",
+    "upchain-web3-http-provider": "^3.1.6",
+    "web3": "^0.19.1"
   }
 }
