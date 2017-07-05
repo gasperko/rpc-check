@@ -1,6 +1,13 @@
+2017-07-05
+==========
+
+  * 3.2.6
+  * chore(deps): updated
+
 2017-04-09
 ==========
 
+  * changelog
   * 3.2.5
   * Autodeploy
   * Badges
@@ -139,5 +146,3 @@
   * License
   * Readme
   * 2.0.0
-  * 1.8.0
-  * Docs
